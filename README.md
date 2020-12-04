@@ -28,6 +28,8 @@ _____________|','   ///_/-------------/   |
 
 </p>
 
+ ![PrinixOS github stats](https://github-readme-stats.vercel.app/api?username=prinixos&show_icons=true&theme=dark)
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -61,5 +63,3 @@ _____________|','   ///_/-------------/   |
 <br/>
 <br/>
 <br/>
-
- ![PrinixOS github stats](https://github-readme-stats.vercel.app/api?username=prinixos&show_icons=true&theme=dark)
