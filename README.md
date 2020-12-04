@@ -22,7 +22,6 @@ _____________|','   ///_/-------------/   |
 
 <br/>
 <br/>
-<br/>
 
   <img width="30%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
@@ -30,6 +29,9 @@ _____________|','   ///_/-------------/   |
 
  ![PrinixOS github stats](https://github-readme-stats.vercel.app/api?username=prinixos&show_icons=true&theme=dark)
 
+
+##
+##
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -59,7 +61,3 @@ _____________|','   ///_/-------------/   |
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
-
-<br/>
-<br/>
-<br/>
