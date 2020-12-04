@@ -1,11 +1,27 @@
-<p align="center">
-  <br>
-  <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="#">Prinix Roy</a></b>.
-    <br>I'm a School Student from India.<br>
+```
+                             \\\\\\\
+                            \\\\\\\\\\\\
+                          \\\\\\\\\\\\\\\
+  -----------,-|           |C>   // )\\\\|          Hello there! I'm Prinix Roy.
+           ,','|          /    || ,'/////|          I'm a School Student from India.
+---------,','  |         (,    ||   /////
+         ||    |          \\  ||||//''''|           
+         ||    |           |||||||     _|
+         ||    |______      `````\____/ \
+         ||    |     ,|         _/_____/ \
+         ||  ,'    ,' |        /          |
+         ||,'    ,'   |       |         \  |
+_________|/    ,'     |      /           | |
+_____________,'      ,',_____|      |    | |
+             |     ,','      |      |    | |
+             |   ,','    ____|_____/    /  |
+             | ,','  __/ |             /   |
+_____________|','   ///_/-------------/   |
+              |===========,'
+```
 
-</samp>
-
+<br/>
+<br/>
 <br/>
 
   <img width="30%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
