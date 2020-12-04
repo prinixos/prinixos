@@ -3,8 +3,8 @@
                             \\\\\\\\\\\\
                           \\\\\\\\\\\\\\\
   -----------,-|           |C>   // )\\\\|          Hello there! I'm Prinix Roy.
-           ,','|          /    || ,'/////|          I'm a School Student from India.
----------,','  |         (,    ||   /////
+           ,','|          /    || ,'/////|          I'm a school student and owner of this repository
+---------,','  |         (,    ||   /////           
          ||    |          \\  ||||//''''|           
          ||    |           |||||||     _|
          ||    |______      `````\____/ \
