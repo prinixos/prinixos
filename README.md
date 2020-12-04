@@ -33,5 +33,7 @@
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
 <br/>
+<br/>
+<br/>
 
- ![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=AkhilGKrishnan&show_icons=true&theme=dark)
+ ![PrinixOS github stats](https://github-readme-stats.vercel.app/api?username=prinixos&show_icons=true&theme=dark)
