@@ -2,8 +2,8 @@
                              \\\\\\\
                             \\\\\\\\\\\\
                           \\\\\\\\\\\\\\\
-  -----------,-|           |C>   // )\\\\|  Hello there! I'm Prinix Roy.
-           ,','|          /    || ,'/////|  I'm a school student and owner of this repository
+  -----------,-|           |C>   // )\\\\| Hello there! I'm Prinix Roy.
+           ,','|          /    || ,'/////| I'm a school student and owner of this repository
 ---------,','  |         (,    ||   /////
          ||    |          \\  ||||//''''|
          ||    |           |||||||     _|
